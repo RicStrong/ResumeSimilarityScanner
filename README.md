@@ -1,5 +1,7 @@
 # ResumeSimilarityScanner
 
+Big thank you to the 'Computer Science' youtube channel for the tutorial for this
+
 This is a very simple notebook for comparing two documents
 
 It uses CountVectorizer and cosine similarity to determine the percentage similarity of the documents
